@@ -1,0 +1,6 @@
+cube-server/.env
+dashboard-app/.env
+cube-server/node_modules
+dashboard-app/node_modules
+cube-server/.cubestore
+cube-server/upstream

@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.env
+schema/LineItems.js
+schema/Orders.js
+schema/ProductCategories.js
+schema/Products.js
+schema/Users.js
